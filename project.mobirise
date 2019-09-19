@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sonar Cinema",
-    "currentPage": "index.html",
+    "currentPage": "join.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -520,11 +520,28 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#635a51\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b><u>Freshers Fayre 2019</u></b></p><p>Thank you for showing your interest at Sonar CInema. If you scanned the QR code on our stall you should've been redirected to this page. Here you'll find more details on what we do and what roles you will forfill. We are hosting an Introduction event on the <u>27th of September</u> in LT1 at around 6pm where will explain more of what we are doing this year and what to expect from the society, you don't need to be a member to attend this event so if you have friends who you feel may be interested, please do invite them to come along.&nbsp;</p><p>Our crew training sessions will be on the following week, where we will be going through and training you all with the projector as well as what to do on a typical showing. Days and times for these sessions are TBC.</p><p>Below are some more details should you require:</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#635a51\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b><u>Freshers Fayre 2019</u></b></p><p>Thank you for showing your interest at Sonar CInema. If you scanned the QR code on our stall you should've been redirected to this page. Here you'll find more details on what we do and what roles you will forfill. We are hosting an Introduction event on the <u>27th of September</u> in LT1 at around 6pm where will explain more of what we are doing this year and what to expect from the society, you don't need to be a member to attend this event so if you have friends who you feel may be interested, please do invite them to come along.&nbsp;</p><p>Our crew training sessions will be on the following week, where we will be going through and training you all with the projector as well as what to do on a typical showing. Days and times for these sessions are TBC.</p><p>Below are some more details should you require:</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-13",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rC2KDPwE6r",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#635a51\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://www.facebook.com/groups/SonarCinemaCrew/\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Click to join our Facebook Group</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-1b",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rCvi2DSYOS",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
