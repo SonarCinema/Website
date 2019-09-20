@@ -2843,6 +2843,21 @@ body {
 .cid-rBXMJ6GF7O .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rCDLLIj0Lj {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-color: #ce2c2c;
+}
+.cid-rCDLLIj0Lj P {
+  color: #767676;
+}
+.cid-rCDLLIj0Lj H1 {
+  color: #ffffff;
+}
+.cid-rCDLLIj0Lj .mbr-text,
+.cid-rCDLLIj0Lj .mbr-section-btn {
+  color: #efefef;
+}
 .cid-rxHywBMmnU {
   background-image: url("../../../assets/images/img-907-2000x1333.jpg");
 }
