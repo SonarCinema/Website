@@ -2857,86 +2857,17 @@ body {
 .cid-rC2CLqpb37 H1 {
   color: #efefef;
 }
-.cid-rC2CMK980f {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #cccccc, #cccccc);
+.cid-rCAJuAooAz {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-rC2CMK980f .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rC2CMK980f .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rC2CMK980f .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rC2CMK980f .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-rC2CMK980f .mbr-text,
-.cid-rC2CMK980f .mbr-section-btn {
-  text-align: left;
-  color: #232323;
-}
-.cid-rC2CMK980f .mbr-section-title {
-  text-align: left;
-  color: #232323;
-}
-.cid-rC2CNcbP4z {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #cccccc;
-}
-.cid-rC2CNcbP4z h2 {
-  margin-bottom: 0;
-}
-.cid-rC2CNcbP4z h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  width: 80%;
-}
-.cid-rC2CNcbP4z p {
+.cid-rCAJuAooAz .mbr-text,
+.cid-rCAJuAooAz blockquote {
   color: #767676;
-  margin-bottom: 0;
 }
-.cid-rC2CNcbP4z .card-wrapper {
-  border-top: 1px solid #073b4c;
-  background-color: #073b4c;
-  position: relative;
-  justify-content: unset;
-}
-.cid-rC2CNcbP4z .card-wrapper .card-box {
-  padding: 2rem 1rem;
-  width: 100%;
-}
-.cid-rC2CNcbP4z .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-rC2CNcbP4z .card-wrapper .card-box .bottom-line {
-  width: 70%;
-}
-@media (max-width: 767px) {
-  .cid-rC2CNcbP4z .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-rC2CNcbP4z .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
-  }
-}
-.cid-rC2CNcbP4z .card-title {
-  color: #efefef;
+.cid-rCAJuAooAz .mbr-text P {
+  text-align: center;
 }
 .cid-rC30MslQra {
   padding-top: 30px;
