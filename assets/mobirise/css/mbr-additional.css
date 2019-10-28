@@ -2169,6 +2169,20 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rGbuvSh3UU {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #0f7699, #073b4c);
+}
+.cid-rGbuvSh3UU .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rGbuvSh3UU .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rC2CLqpb37 {
   padding-top: 30px;
   padding-bottom: 15px;
