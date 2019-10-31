@@ -2186,7 +2186,7 @@ section.lazy-placeholder:after {
 .cid-rC2CLqpb37 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #0f7699;
+  background-color: #073b4c;
 }
 .cid-rC2CLqpb37 P {
   color: #767676;
@@ -2194,106 +2194,46 @@ section.lazy-placeholder:after {
 .cid-rC2CLqpb37 H1 {
   color: #efefef;
 }
-.cid-rG83X44XNB {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #0f7699);
-}
-@media (min-width: 992px) {
-  .cid-rG83X44XNB .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rG83X44XNB .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rG82Db8SZR {
-  padding-top: 0px;
-  padding-bottom: 45px;
+.cid-rGv9RS2ONq {
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #0f7699;
 }
-.cid-rG82Db8SZR .mbr-section-subtitle {
-  color: #efefef;
-  text-align: right;
+.cid-rGv9RS2ONq .mbr-text,
+.cid-rGv9RS2ONq blockquote {
+  color: #767676;
 }
-.cid-rG82Db8SZR .container-table {
-  margin: 0 auto;
-}
-.cid-rG82Db8SZR .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-rG82Db8SZR .dataTables_wrapper {
-  display: block;
-}
-.cid-rG82Db8SZR .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-rG82Db8SZR .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-rG82Db8SZR table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
-}
-.cid-rG82Db8SZR table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-rG82Db8SZR table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-rG82Db8SZR table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-rG82Db8SZR table.table {
-  background: #55b4d4;
-}
-.cid-rG82Db8SZR .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-rG82Db8SZR .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-rG82Db8SZR .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-rG82Db8SZR .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-rG82Db8SZR .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-rG82Db8SZR .dataTables_filter {
-    text-align: center;
-  }
-  .cid-rG82Db8SZR .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-rG82Db8SZR .mbr-section-title {
+.cid-rGv9RS2ONq .mbr-text {
   color: #ffffff;
 }
-.cid-rG82Db8SZR .mbr-section-subtitle P {
-  text-align: right;
+.cid-rGv9RS2ONq .mbr-text P {
+  text-align: center;
+}
+.cid-rGvaxiJJ2E {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #073b4c;
+}
+.cid-rGvaxiJJ2E P {
+  color: #767676;
+}
+.cid-rGvaxiJJ2E H1 {
+  color: #efefef;
+}
+.cid-rGvaBUhKWJ {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #0f7699;
+}
+.cid-rGvaBUhKWJ .mbr-text,
+.cid-rGvaBUhKWJ blockquote {
+  color: #767676;
+}
+.cid-rGvaBUhKWJ .mbr-text {
+  color: #ffffff;
+}
+.cid-rGvaBUhKWJ .mbr-text P {
+  text-align: left;
 }
 .cid-rC30MslQra {
   padding-top: 30px;
@@ -2433,6 +2373,52 @@ section.lazy-placeholder:after {
 .cid-rC31k4TB5F .links {
   text-align: left;
   color: #cccccc;
+}
+.cid-rGv9zUfQXS {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rGv9zUfQXS .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rGv9zUfQXS .section-text {
+  padding: 2rem 0;
+}
+.cid-rGv9zUfQXS .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rGv9zUfQXS .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rGv9zXVPiO {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rGv9zXVPiO .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rGv9zXVPiO .section-text {
+  padding: 2rem 0;
+}
+.cid-rGv9zXVPiO .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rGv9zXVPiO .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rG88HLFhtG {
   background: #ffffff;
