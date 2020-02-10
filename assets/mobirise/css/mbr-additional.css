@@ -2194,20 +2194,106 @@ section.lazy-placeholder:after {
 .cid-rC2CLqpb37 H1 {
   color: #efefef;
 }
-.cid-rGv9RS2ONq {
-  padding-top: 45px;
+.cid-rQ74SyjkyC {
+  padding-top: 90px;
   padding-bottom: 30px;
+  background: linear-gradient(45deg, #0f7699, #0f7699);
+}
+@media (min-width: 992px) {
+  .cid-rQ74SyjkyC .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rQ74SyjkyC .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rQ75ct9pmw {
+  padding-top: 0px;
+  padding-bottom: 60px;
   background-color: #0f7699;
 }
-.cid-rGv9RS2ONq .mbr-text,
-.cid-rGv9RS2ONq blockquote {
-  color: #767676;
+.cid-rQ75ct9pmw .mbr-section-subtitle {
+  color: #efefef;
+  text-align: right;
 }
-.cid-rGv9RS2ONq .mbr-text {
+.cid-rQ75ct9pmw .container-table {
+  margin: 0 auto;
+}
+.cid-rQ75ct9pmw .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rQ75ct9pmw .dataTables_wrapper {
+  display: block;
+}
+.cid-rQ75ct9pmw .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rQ75ct9pmw .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rQ75ct9pmw table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rQ75ct9pmw table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rQ75ct9pmw table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rQ75ct9pmw table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rQ75ct9pmw table.table {
+  background: #55b4d4;
+}
+.cid-rQ75ct9pmw .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rQ75ct9pmw .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rQ75ct9pmw .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rQ75ct9pmw .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rQ75ct9pmw .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rQ75ct9pmw .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rQ75ct9pmw .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rQ75ct9pmw .mbr-section-title {
   color: #ffffff;
 }
-.cid-rGv9RS2ONq .mbr-text P {
-  text-align: center;
+.cid-rQ75ct9pmw .mbr-section-subtitle P {
+  text-align: right;
 }
 .cid-rGvaxiJJ2E {
   padding-top: 30px;
